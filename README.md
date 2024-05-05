@@ -1,6 +1,6 @@
-### Hi there, I am MD Rihan Uddin Shagor
+![image](https://github.com/rihanshagor/rihanshagor/assets/110585343/c1e4d17d-a7c8-45d1-bda5-6c0a58a9f3e4)### Hi there, I am MD Rihan Uddin Shagor
 #### Frontend Web developer || Data Analyzer || Machine Learner
-!(https://www.canva.com/design/DAGEWmJAoKc/mlNegoxnaYIPbx2eI69uMg/view?utm_content=DAGEWmJAoKc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Frontend Web developer || Data Analyzer || Machine Learner](https://www.canva.com/design/DAGEWmJAoKc/0V7RkXwEBJyV6FcUbNzvqw/edit)
 
 As a tech enthusiast and quick learner, I'm always eager to adapt and grow alongside the ever-evolving world of technology.
 
