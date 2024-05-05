@@ -1,6 +1,6 @@
 ### Hi there, I am MD Rihan Uddin Shagor
 #### Frontend Web developer || Data Analyzer || Machine Learner
-![Frontend Web developer || Data Analyzer || Machine Learner](https://www.canva.com/design/DAGEWmJAoKc/mlNegoxnaYIPbx2eI69uMg/view?utm_content=DAGEWmJAoKc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+!(https://www.canva.com/design/DAGEWmJAoKc/mlNegoxnaYIPbx2eI69uMg/view?utm_content=DAGEWmJAoKc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 As a tech enthusiast and quick learner, I'm always eager to adapt and grow alongside the ever-evolving world of technology.
 
