@@ -1,6 +1,6 @@
 ## Hi there, I am MD Rihan Uddin Shagor
 ### Frontend Web developer || Data Analyzer || Machine Learner
-![Frontend Web developer || Data Analyzer || Machine Learner](https://media.licdn.com/dms/image/D4D16AQGcbMD6hfwi1Q/profile-displaybackgroundimage-shrink_350_1400/0/1714907427556?e=1720656000&v=beta&t=BvHvnyfdkd7Hd1JAv-S5GDRsIe898xn8yMsoEquiBTk)
+![Frontend Web developer || Data Analyzer || Machine Learner]([https://media.licdn.com/dms/image/D4D16AQGcbMD6hfwi1Q/profile-displaybackgroundimage-shrink_350_1400/0/1714907427556?e=1720656000&v=beta&t=BvHvnyfdkd7Hd1JAv-S5GDRsIe898xn8yMsoEquiBTk](https://www.canva.com/design/DAGEWmJAoKc/-x5Q8fI9w_S033RpumTNpQ/view))
 
 As a tech enthusiast and quick learner, I'm always eager to adapt and grow alongside the ever-evolving world of technology. I have worked on web designing project and also expert in Machine learning technology . I can visualize , analyze dataset with R language . I can do graphics work with canva . As a BSc in CSE fresher , i have concept on all the principle of computer such as data science , object oriented , algorithm , machine learning , computer networking, computer graphics , software docomentation . 
 
